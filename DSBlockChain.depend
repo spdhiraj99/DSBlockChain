@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1639974335 source:d:\vm_shared\dsblockchain\vendor\sha256\sha256.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
+1639971461 d:\vm_shared\dsblockchain\vendor\sha256\sha256.h
+	<string>
+
+1640488987 source:d:\vm_shared\dsblockchain\dsblock.cpp
+	"DSBlockChain.h"
+
+1640506776 d:\vm_shared\dsblockchain\dsblockchain.h
+	<iostream>
+	<vector>
+	<map>
+	"vendor/sha256/sha256.h"
+
+1640506707 source:d:\vm_shared\dsblockchain\main.cpp
+	<iostream>
+	"DSBlockChain.h"
+
+1640496631 source:d:\vm_shared\dsblockchain\dsblockchainio.cpp
+	"DSBlockChain.h"
+
+1640506817 source:d:\vm_shared\dsblockchain\dsblockchain.cpp
+	"DSBlockChain.h"
+
